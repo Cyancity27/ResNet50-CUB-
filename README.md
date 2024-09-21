@@ -53,7 +53,7 @@
 ## 运行方法
 1. 克隆该仓库：
 ```bash
-   git clone [仓库地址]
+   git clone https://github.com/Cyancity27/ResNet50-CUB-.git
  ```
 2. 安装所需依赖
 ```bash
