@@ -38,7 +38,7 @@
 
 - **net_train.py**: 主要用于训练ResNet50模型，对数据进行预处理，设置训练参数，并执行模型训练。
 
-- **plot.py**: 负责绘制可视化结果，包括模型的性能指标图，如Precision、Recall、F1分数图等。
+- **plot_curves.py**: 负责绘制可视化结果，包括模型的性能指标图，如Precision、Recall、F1分数图等。
 
 - **test.py**: 负责测试模型的性能，执行分类任务，并生成评估指标。
 
